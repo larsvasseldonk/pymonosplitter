@@ -1,6 +1,6 @@
 # pymonosplitter
 
-Short description..
+This tool is created for the master thesis 'From a Monolith to Microservices: the Effect of Multi-view Clustering' (see this [link](https://github.com/larsvasseldonk/thesis)).
 
 ## Getting Started
 
